@@ -56,6 +56,9 @@
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
+> [!IMPORTANT]
+> Tests.
+
 - [x] You should have an input element with an id of "user-input".
 - [x] You should have a button element with an id of "check-btn".
 - [x] You should have a button element with an id of "clear-btn".
