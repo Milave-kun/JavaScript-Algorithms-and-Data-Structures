@@ -10,4 +10,5 @@
 
 ### Telephone Number Validator
 > Telephone number verification (or validation) services are online services used to establish whether a given telephone number is in service.
+
 ![image](https://github.com/Milave-kun/JavaScript-Algorithms-and-Data-Structures/assets/125982535/d44853e7-06c2-48aa-b91e-eb5bdf1db3eb)
