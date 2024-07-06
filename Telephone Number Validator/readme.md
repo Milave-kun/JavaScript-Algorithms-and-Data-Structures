@@ -11,3 +11,6 @@ In the US, phone numbers can be formatted in many ways. Here are some examples o
 - 5555555555
 - 555-555-5555
 - (555)555-5555
+
+> [!NOTE]
+> The area code is required. Also, if the country code is provided, you must confirm that the country code is 1.
