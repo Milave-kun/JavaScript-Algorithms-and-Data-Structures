@@ -1,6 +1,7 @@
 # JavaScript-Algorithms-and-Data-Structures
 ### Palindrome Checker
 A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.
+
 ![image](https://github.com/Milave-kun/JavaScript-Algorithms-and-Data-Structures/assets/125982535/edda302b-ef5a-44d0-af34-9d228858db3d)
 
 ### Roman Numeral Converter
