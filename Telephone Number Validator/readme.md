@@ -54,7 +54,7 @@
 33. When the #user-input element contains 55 55-55-555-5 and the #check-btn element is clicked, the #results-div element should contain the text "Invalid US number: 55 55-55-555-5"
 34. When the #user-input element contains 11 555-555-5555 and the #check-btn element is clicked, the #results-div element should contain the text "Invalid US number: 11 555-555-5555"
 
-Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!|
+Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 - [x] You should have an input element with an id of "user-input".
 - [x] You should have a button element with an id of "check-btn".
