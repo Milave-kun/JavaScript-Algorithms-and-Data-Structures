@@ -3,7 +3,7 @@
 
 ## Build a Telephone Number Validator
 
-### In the US, phone numbers can be formatted in many ways. Here are some examples of valid formats for US phone numbers:
+In the US, phone numbers can be formatted in many ways. Here are some examples of valid formats for US phone numbers:
 - 1 555-555-5555
 - 1 (555) 555-5555
 - 1(555)555-5555
