@@ -29,7 +29,7 @@ Your application should show different messages depending on the price of the it
 
 ### Objective: Build an app that is functionally similar to https://cash-register.freecodecamp.rocks
 
-User Stories:
+### User Stories:
 1. You should have an input element with an ```id``` of ```"cash"```.
 2. You should have a ```div```, ```span```, or ```p``` element with an ```id``` of ```"change-due"```.
 3. You should have a ```button``` element with an ```id``` of ```"purchase-btn"```.
