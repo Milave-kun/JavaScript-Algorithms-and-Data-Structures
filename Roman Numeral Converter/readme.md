@@ -21,7 +21,7 @@ Roman numerals are based on seven symbols and can be written using various combi
 |         I          | 	        1           |   
 
 
-### Objective: Build an app that is functionally similar to https://roman-numeral-converter.freecodecamp.rocks `#000000`
+### Objective: Build an app that is functionally similar to https://roman-numeral-converter.freecodecamp.rocks
 
 ### User Stories:
 
