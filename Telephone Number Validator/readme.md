@@ -17,7 +17,7 @@ In the US, phone numbers can be formatted in many ways. Here are some examples o
 
 ### Objective: Build an app that is functionally similar to https://telephone-number-validator.freecodecamp.rocks
 
-### User Stories:
+User Stories:
 
 1. You should have an input element with an id of "user-input"
 2. You should have a button element with an id of "check-btn"
