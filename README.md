@@ -10,7 +10,7 @@
 ![image](https://github.com/Milave-kun/JavaScript-Algorithms-and-Data-Structures/assets/125982535/edda302b-ef5a-44d0-af34-9d228858db3d)
 
 ### Pokemon Checker App
-> 
+> A Pokémon search app is a web application that allows users to input the name or ID of a Pokémon. It retrieves data from an API, displaying detailed information about the Pokémon such as its stats, types, height, weight, and a visual representation (sprite). Users can explore and learn about different Pokémon through an intuitive and interactive interface.
 
 ![image](https://github.com/Milave-kun/JavaScript-Algorithms-and-Data-Structures/assets/125982535/799e0f8c-f632-4665-98e5-e485b82a341a)
 
