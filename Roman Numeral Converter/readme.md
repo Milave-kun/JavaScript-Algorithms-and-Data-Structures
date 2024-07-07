@@ -24,7 +24,6 @@ Roman numerals are based on seven symbols and can be written using various combi
 ### Objective: Build an app that is functionally similar to https://roman-numeral-converter.freecodecamp.rocks
 
 User Stories:
-
 1. You should have an input element with an id of "number"
 2. You should have a button element with an id of "convert-btn"
 3. You should have a div, span or p element with an id of output
