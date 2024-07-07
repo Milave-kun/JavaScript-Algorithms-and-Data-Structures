@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures
 ### Cash Register
-> a machine used in places of business for regulating money transactions with customers. It typically has a compartmental drawer for cash, and it totals, displays, and records the amount of each sale.
+> A machine used in places of business for regulating money transactions with customers. It typically has a compartmental drawer for cash, and it totals, displays, and records the amount of each sale.
 
 ![image](https://github.com/Milave-kun/JavaScript-Algorithms-and-Data-Structures/assets/125982535/884583ff-af05-41c3-b054-0720865ab46a)
 
