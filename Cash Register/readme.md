@@ -46,6 +46,9 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 > [!IMPORTANT]
 > Tests.
 
+
+``` hi ```
+
 - [x] You should have the HTML file link to the JavaScript file.
 - [x] You should have a global variable called price.
 - [x] You should have a global variable called cid.
