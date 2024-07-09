@@ -1,4 +1,8 @@
 # JavaScript Algorithms and Data Structures
+JavaScript Algorithms and Data Structures involve implementing and managing algorithms and data structures using the JavaScript programming language, crucial for efficient problem-solving and application development.
+
+![image](https://github.com/Milave-kun/JavaScript-Algorithms-and-Data-Structures/assets/125982535/26c250e2-7169-48f5-8bb9-4dfd8ae6e3bd)
+
 ### Cash Register
 > A machine used in places of business for regulating money transactions with customers. It typically has a compartmental drawer for cash, and it totals, displays, and records the amount of each sale.
 
